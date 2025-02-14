@@ -8,7 +8,6 @@
 [<img src="https://img.icons8.com/color/48/linkedin.png" width="30">](https://www.linkedin.com/in/sidy-moctar-lo-a78793298/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SMoctarL&theme=dark)](https://git.io/streak-stats)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMoctarL&layout=compact&theme=dark&hide_border=true)
 
 ---
 
