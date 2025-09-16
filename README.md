@@ -63,9 +63,12 @@ Une mise à jour sera faite...
 
 ## 📚 Certifications & Formation
 - **BAC en Informatique à l'UQAC**  - En cours
-- **The Odin Porject** - 2024
-- **Pentesting** @ OpenClasseroom- 2023-2024
-- **Réseaux** @ Huawei Accademie - 2024
+- **Elements of AI (Université d’Helsinki)**
+- **TensorFlow Developer Certificate**
+- **CS50P**
+- **Pentesting avec openclasseroom**
+- **The Odin Porject (Dev Front)**
+- **Réseaux avec Huawei Accademie**
 
 ---
 
