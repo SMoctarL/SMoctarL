@@ -1,5 +1,4 @@
 # 💻 SMOCKILL
-## 💫 About Me:
  ## 📫 Contact
 - 🔗 **Retrouvez-moi sur** : 
 [<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30">](https://www.instagram.com/smoctar_lo/)
