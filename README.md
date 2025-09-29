@@ -1,6 +1,5 @@
 # 💻 SMOCKILL
 ## 💫 About Me:
-My WebSite : https://smoctarl-fun.vercel.app/
  ## 📫 Contact
 - 🔗 **Retrouvez-moi sur** : 
 [<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30">](https://www.instagram.com/smoctar_lo/)
@@ -65,7 +64,7 @@ Une mise à jour sera faite...
 - **BAC en Informatique à l'UQAC**  - En cours
 - **Elements of AI (Université d’Helsinki)**
 - **TensorFlow Developer Certificate**
-- **CS50P**
+- **CS50P (avec Harvard via edX)**
 - **Pentesting avec openclasseroom**
 - **The Odin Porject (Dev Front)**
 - **Réseaux avec Huawei Accademie**
