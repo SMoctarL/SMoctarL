@@ -47,7 +47,7 @@
 ---
 
 ## 🚀 Projets Phares
-Une mise à jour sera faite...
+Une mise à jour sera faite... 
 
 ---
 
